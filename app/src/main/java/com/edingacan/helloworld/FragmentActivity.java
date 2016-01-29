@@ -36,6 +36,7 @@ public class FragmentActivity extends Activity  implements ToolbarFragment.Toolb
 
         // this is only for testing purposes
         // 2
+        // 3
     }
 
     @Override
