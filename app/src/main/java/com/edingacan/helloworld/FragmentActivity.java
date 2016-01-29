@@ -35,6 +35,7 @@ public class FragmentActivity extends Activity  implements ToolbarFragment.Toolb
         return super.onOptionsItemSelected(item);
 
         // this is only for testing purposes
+        // 2
     }
 
     @Override
