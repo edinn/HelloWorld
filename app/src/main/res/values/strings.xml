@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+
+    <string name="hello_world">Hello World! This is The Main Activity!</string>
+    <string name="hello_world2">Hi there! This is The Second Activity.</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="changeText">Change Text</string>
+    <string name="newText">It Works!</string>
+    <string name="title_activity_grid_layout">GridLayoutActivity</string>
+    <string name="status_string">Status</string>
+    <string name="button_string">Press me</string>
+    <string name="title_activity_multitouch">MultitouchActivity</string>
+    <string name="status1_text">Touch One Status</string>
+    <string name="status2_text">Touch Two Status</string>
+    <string name="title_activity_fragment">FragmentActivity</string>
+    <string name="button_ChangeText_text">Change Text</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_ChangeText">Change Text</string>
+    <string name="fragmentTwoTextLabel">Fragment Two</string>
+</resources>
